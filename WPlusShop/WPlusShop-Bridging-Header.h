@@ -9,5 +9,6 @@
 #ifndef WPlusShop_Bridging_Header_h
 #define WPlusShop_Bridging_Header_h
 
+#import <sqlite3.h>
 
 #endif /* WPlusShop_Bridging_Header_h */

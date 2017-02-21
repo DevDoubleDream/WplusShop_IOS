@@ -7,3 +7,10 @@
 //
 
 import Foundation
+
+struct UserInfo{
+    var userId:String
+    var userNo:String
+    var cardNo:String
+    var point :String
+}
